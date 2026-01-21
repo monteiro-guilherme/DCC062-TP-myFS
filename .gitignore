@@ -1,0 +1,7 @@
+# Arquivos de dados
+*.dat
+*.txt
+ 
+
+# Executável gerado
+myfs_sim
