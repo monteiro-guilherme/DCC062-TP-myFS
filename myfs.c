@@ -15,6 +15,7 @@ gcc main.c myfs.c vfs.c inode.c disk.c util.c -o myfs_sim -w
 ou 
 ./myfs_sim.exe
 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
