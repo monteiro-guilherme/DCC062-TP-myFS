@@ -8,6 +8,13 @@
 *
 */
 
+/*
+Execução:
+gcc main.c myfs.c vfs.c inode.c disk.c util.c -o myfs_sim -w
+./myfs_sim 
+ou 
+./myfs_sim.exe
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
